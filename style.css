@@ -1,0 +1,26 @@
+#grid-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.student-card {
+    width: 1fr;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.student-image {
+    width: 40%;
+}
+
+.student-name {
+    font-size: 2rem;
+    font-weight: bold;
+}
