@@ -24,3 +24,11 @@
     font-size: 2rem;
     font-weight: bold;
 }
+
+.button-link {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}
