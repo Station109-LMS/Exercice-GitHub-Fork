@@ -5,7 +5,7 @@
 }
 
 .student-card {
-    width: 1fr;
+    width: 60%;
     height: 400px;
     border: 1px solid black;
     border-radius: 10px;
